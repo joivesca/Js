@@ -1,0 +1,11 @@
+{
+	"express" : {
+		"port" : 8090
+	},
+	"postgres" : {
+		"db" : "postgres",
+		"user" : "postgres",
+		"password" : "root",
+		"host" : "localhost"
+	}
+}
